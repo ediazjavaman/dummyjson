@@ -1,0 +1,14 @@
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\bin\Debug\net6.0\ConsoleEDIAZAppDummy.exe
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\bin\Debug\net6.0\ConsoleEDIAZAppDummy.deps.json
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\bin\Debug\net6.0\ConsoleEDIAZAppDummy.runtimeconfig.json
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\bin\Debug\net6.0\ConsoleEDIAZAppDummy.dll
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\bin\Debug\net6.0\ConsoleEDIAZAppDummy.pdb
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.AssemblyInfoInputs.cache
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.AssemblyInfo.cs
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.csproj.CoreCompileInputs.cache
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.dll
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\refint\ConsoleEDIAZAppDummy.dll
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.pdb
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ConsoleEDIAZAppDummy.genruntimeconfig.cache
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\ConsoleEDIAZAppDummy\ConsoleEDIAZAppDummy\obj\Debug\net6.0\ref\ConsoleEDIAZAppDummy.dll

@@ -1,0 +1,5 @@
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\publish\ConsoleEDIAZAppDummy.exe
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\publish\ConsoleEDIAZAppDummy.dll
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\publish\ConsoleEDIAZAppDummy.deps.json
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\publish\ConsoleEDIAZAppDummy.runtimeconfig.json
+D:\User\Tools\Automatizacion-tools\AppPost\AppConsoleDymmy\publish\ConsoleEDIAZAppDummy.pdb
